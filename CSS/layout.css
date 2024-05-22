@@ -1,0 +1,12 @@
+.layout-cabecalho{
+    height: 60px;
+    border-bottom: 1px solid #228b22;
+}
+
+.layout-cabecalho img{
+    margin-top: 12px;
+}
+
+.layout-personagens{
+    padding: 40px 0;
+}
